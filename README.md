@@ -43,7 +43,7 @@
 
  `yapi server`
 
-5. 根据提示在浏览器中输入`ip:9090`进行安装
+5. 根据提示在浏览器中输入`ip:9090`进行安装,管理员账号默认账号名："admin@admin.com"，密码："ymfe.org"
 
 6. 回到终端，执行`nohup node /my-yapi/vendors/server/app.js 2>&1 &` 在后台运行`yapi`
 
